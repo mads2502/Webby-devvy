@@ -1,2 +1,2 @@
 # Webby-devvy
-Web Development starter-hope turns into a good repo
+Web Development starter-hope turns into a good one
